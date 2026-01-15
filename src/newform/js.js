@@ -1,1 +1,2 @@
 import "./ts";
+import "./ts";
